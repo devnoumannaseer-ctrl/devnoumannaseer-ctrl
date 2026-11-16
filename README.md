@@ -1,11 +1,11 @@
 <h2 align="center">
   <h2 align="center">
   <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2109EB&height=150&section=header&text=Nauman%20Naseer&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20Undergrad%20|%20Full-Stack%20Dev%20|%20Tech%20Enthusiast&descAlignY=75" width="100%" alt="Nauman Naseer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=824B5B,A6555D,A97A66&height=150&section=header&text=Nauman%20Naseer&fontSize=50&fontColor=fff8f0&animation=twinkling&desc=CS%20Undergrad%20|%20Full-Stack%20Dev%20|%20Tech%20Enthusiast&descAlignY=75" width="100%" alt="Nauman Naseer"/>
 
   <!-- NAME / TAGLINE - animated typing -->
   <a href="https://github.com/devnoumannaseer-ctrl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=900&color=2109EB&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Competitive+Programmer;Video+Editor;Content+Creator;CS+Undergraduate;01100011+01101111+01100100+01100101" alt="typing banner">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=900&color=fff8f0&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Competitive+Programmer;Video+Editor;Content+Creator;CS+Undergraduate;01100011+01101111+01100100+01100101" alt="typing banner">
   </a>
   <br><br>  
 </h2>
