@@ -1,12 +1,15 @@
 <h2 align="center">
-  <!-- 🔥 Animated Header Wave (Dark Espresso Brown, Mocha & Luxurious Off-White) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A110D,3E2723,6D4C41,C4A482&height=170&section=header&text=Nauman%20Naseer&fontSize=50&fontColor=FFF8F0&animation=twinkling&desc=CS%20Undergrad%20%7C%20C%2B%2B%20%26%20Python%20Developer%20%7C%20Algorithmic%20Thinker&descAlignY=75" width="100%" alt="Nauman Naseer Header" />
+  <h2 align="center">
+  <!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2109EB&height=150&section=header&text=Nauman%20Naseer&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20Undergrad%20|%20Full-Stack%20Dev%20|%20Tech%20Enthusiast&descAlignY=75" width="100%" alt="Nauman Naseer"/>
 
-  <!-- ⚡ Dynamic Animated Typing (Warm Off-White & Brown Palette) -->
+  <!-- NAME / TAGLINE - animated typing -->
   <a href="https://github.com/devnoumannaseer-ctrl">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=1000&color=FAF0E6&center=true&vCenter=true&width=620&lines=CS+Undergraduate+%F0%9F%8E%93;C%2B%2B+%26+Python+Developer+%E2%9A%A1;Data+Structures+%26+OOP+Specialist+%F0%9F%A7%A0;Building+High-Performance+Software+%F0%9F%9A%80;01100011+01101111+01100100+01100101" alt="typing banner">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=900&color=2109EB&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Competitive+Programmer;Video+Editor;Content+Creator;CS+Undergraduate;01100011+01101111+01100100+01100101" alt="typing banner">
   </a>
-  <br><br>
+  <br><br>  
+</h2>
+<br><br>
 
   <!-- 🌐 Direct API Contact Badges (Brown & Off-White) -->
   <p align="center">
