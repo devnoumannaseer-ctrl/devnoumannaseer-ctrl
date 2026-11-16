@@ -27,7 +27,7 @@ jobs:
           github_user_name: devnoumannaseer-ctrl
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#EC4899&color_dots=#161b22,#3b0764,#701a75,#c026d3,#f43f5e
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#EF4444&color_dots=#161b22,#450a0a,#7f1d1d,#b91c1c,#ef4444
 
       - name: Push Snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

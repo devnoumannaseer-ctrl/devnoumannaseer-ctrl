@@ -1,45 +1,33 @@
 <!-- ================================================================= -->
 <!-- NAUMAN NASEER — PREMIUM ANIMATED GITHUB DEVELOPER PROFILE         -->
-<!-- Inspired by Cyber/Synthwave Aesthetic with Personal Identity      -->
+<!-- Red & Black Combo · Inspired by 3D Cyber Developer Desk & Reference -->
 <!-- Portfolio: https://portfolio-nauman-naseer.vercel.app/            -->
-<!-- Palette: Midnight Navy #07090E · Neon Magenta #EC4899 · Violet   -->
+<!-- Palette: Obsidian Black #080808 · Neon Crimson #EF4444 / #DC2626 -->
 <!-- ================================================================= -->
 
 <div align="center">
 
-<h2 align="center">
-  <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0xfff&height=150&section=header&text=Nauman%20naseer&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20Undergrad%20|%20Full-Stack%20Dev%20|%20Tech%20Enthusiast&descAlignY=75" width="100%" />
+<!-- ⚡ 3D Cyber Developer Desk Banner (Red & Black Edition) -->
+<img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/header-banner.png" width="100%" alt="Nauman Naseer — Developer Banner" />
 
-  <!-- NAME / TAGLINE - animated typing -->
-  <a href="https://github.com/Tayyab-Yahya">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=900&color=2109EB&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Competitive+Programmer;Video+Editor;Content+Creator;CS+Undergraduate;01100011+01101111+01100100+01100101" alt="typing banner">
-  </a>
-  <br><br>  
-</h2>
 <br><br>
 
-<table>
-  <tr>
-
-
-
-<!-- ⌨️ Animated Typing SVG — Instant Auto-Render -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=1000&color=EC4899&center=true&vCenter=true&width=750&lines=Computer+Science+Undergraduate+%F0%9F%8E%93;Python+%26+C%2B%2B+Programmer+%E2%9A%A1;Data+Structures+%26+OOP+Architect+%F0%9F%A7%A0;Full-Stack+Web+Craftsman+%F0%9F%9A%80;Building+Practical+Software+Systems+%F0%9F%9B%A0%EF%B8%8F" alt="Typing Animation: CS Student | Python & C++ | DSA | Software Systems" />
+<!-- ⌨️ Animated Typing SVG — Instant Auto-Render (Neon Crimson) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=1000&color=EF4444&center=true&vCenter=true&width=750&lines=Computer+Science+Undergraduate+%F0%9F%8E%93;Python+%26+C%2B%2B+Programmer+%E2%9A%A1;Data+Structures+%26+OOP+Architect+%F0%9F%A7%A0;Full-Stack+Web+Craftsman+%F0%9F%9A%80;Building+Practical+Software+Systems+%F0%9F%9B%A0%EF%B8%8F" alt="Typing Animation: CS Student | Python & C++ | DSA | Software Systems" />
 
 <br><br>
 
 <!-- 📊 Dynamic Profile Metric Badges -->
 <a href="https://github.com/devnoumannaseer-ctrl?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-4-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Followers-4-EF4444?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
 </a>
 &nbsp;
 <a href="https://github.com/devnoumannaseer-ctrl?tab=repositories">
-  <img src="https://img.shields.io/badge/Stars-Collected-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Stars-Collected-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
 </a>
 &nbsp;
 <a href="https://komarev.com/ghpvc/?username=devnoumannaseer-ctrl">
-  <img src="https://komarev.com/ghpvc/?username=devnoumannaseer-ctrl&label=Profile%20Views&color=EC4899&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=devnoumannaseer-ctrl&label=Profile%20Views&color=EF4444&style=for-the-badge" alt="Profile Views" />
 </a>
 
 <br><br>
@@ -81,8 +69,50 @@
      Stacks cleanly on mobile viewports.
      ═══════════════════════════════════════════════════════════════════ -->
 
+## ⚡ `01.` About Me
 
- 
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
+### Engineering Resilient Foundations in Computer Science
+
+I am an enthusiastic **Computer Science undergraduate** focused on engineering robust software architectures, mastering core computing principles, and solving complex algorithmic challenges.
+
+I combine deep foundational knowledge — such as low-level memory handling in **C++**, high-level scripting in **Python**, and robust **Object-Oriented Design** in **Java** — with modern web technologies to engineer clean, maintainable, and high-performance solutions.
+
+#### 🎯 Core Engineering Passions
+
+- 💻 **Computer Science Undergraduate** — Building strong theoretical foundations in computing, operating systems, and systems design.
+- ⚡ **C++ and Python Programming** — Mastering low-level memory management, pointers, and high-performance automated scripting.
+- 🧠 **Data Structures & Algorithms** — Dedicated to clean code, time & space complexity optimization ($O(1)$, $O(n \log n)$), and edge-case handling.
+- 🏛️ **Object-Oriented Programming (OOP)** — Encapsulation, polymorphism, abstraction, and memory leak prevention.
+- 🌐 **Modern Web Development** — Engineering fluid, component-driven interfaces with **React**, **TypeScript**, and **Tailwind CSS**.
+- 🚀 **Building Practical Software** — Developing usable tools, educational simulators, and scalable full-stack applications.
+
+```yaml
+Current Status: Open for Internships & Engineering Collaborations 💼
+Core Focus:     Algorithms · C++ Systems · Python Automation · React Web
+Mindset:        "Learn deeply, code with intent, build to last 🚀"
+```
+
+  </td>
+  <td width="38%" align="center" valign="middle">
+
+<a href="https://portfolio-nauman-naseer.vercel.app/" target="_blank">
+  <img src="https://i.postimg.cc/G29tQfmY/my-pic.jpg" width="230" style="border-radius: 14px;" alt="Nauman Naseer" />
+</a>
+
+<br><br>
+
+**NAUMAN NASEER**  
+<sub>BS Computer Science · Pakistan 🇵🇰</sub>  
+<sub>Open for Internships & Projects 🟢</sub>
+
+  </td>
+  </tr>
+</table>
+
 <br>
 
 <p align="center">
@@ -96,7 +126,7 @@
      Curated icon groups matching the reference video design.
      ═══════════════════════════════════════════════════════════════════ -->
 
-## Tech Stack & Engineering Toolkit
+## 💻 `02.` Tech Stack & Engineering Toolkit
 
 <div align="center">
 
@@ -121,7 +151,19 @@
 
 </div>
 
+<br>
 
+### 🛠️ Detailed Breakdown by Category
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `C++` · `Python` · `Java` · `C` · `JavaScript (ES6+)` · `TypeScript` · `SQL` |
+| **Web & Frontend** | `React.js` · `Tailwind CSS` · `HTML5` · `CSS3` · `Vite` · `Framer Motion` |
+| **Databases** | `MySQL` · `PostgreSQL` · `Relational Schemas` · `Binary & Text File I/O` |
+| **Core CS & Systems** | `Data Structures` · `Algorithms` · `OOP Paradigm` · `Operating Systems` · `Big-O Complexity` |
+| **Tools & Platforms** | `Git` · `GitHub` · `VS Code` · `Linux / Bash` · `IntelliJ IDEA` · `PyCharm` · `Vercel` |
+
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/neon-divider.svg" width="100%" alt="" />
@@ -140,14 +182,14 @@
 <div align="center">
 
 <!-- GitHub Contribution Streak Card -->
-<img src="https://streak-stats.demolab.com/?user=devnoumannaseer-ctrl&theme=tokyonight&background=0a0e17&border=30363d&stroke=ec4899&ring=ec4899&fire=f43f5e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ec4899&sideLabels=94a3b8&dates=64748b&border_radius=12" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=devnoumannaseer-ctrl&theme=dark&background=080808&border=331114&stroke=EF4444&ring=EF4444&fire=DC2626&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=EF4444&sideLabels=94a3b8&dates=64748b&border_radius=12" alt="GitHub Streak Stats" />
 
 <br><br>
 
-<!-- GitHub Stats & Top Languages -->
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=devnoumannaseer-ctrl&show_icons=true&bg_color=0a0e17&border_color=30363d&title_color=ec4899&text_color=cbd5e1&icon_color=f43f5e&border_radius=12" alt="GitHub Stats" />
+<!-- GitHub Stats & Top Languages (Fast & Reliable Instance — No Rate Limit Downtime) -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=devnoumannaseer-ctrl&show_icons=true&bg_color=080808&border_color=331114&title_color=EF4444&text_color=cbd5e1&icon_color=DC2626&border_radius=12" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=devnoumannaseer-ctrl&layout=compact&bg_color=0a0e17&border_color=30363d&title_color=ec4899&text_color=cbd5e1&icon_color=f43f5e&border_radius=12" alt="Most Used Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=devnoumannaseer-ctrl&layout=compact&bg_color=080808&border_color=331114&title_color=EF4444&text_color=cbd5e1&icon_color=DC2626&border_radius=12" alt="Most Used Languages" />
 
 </div>
 
@@ -158,7 +200,7 @@
 <div align="center">
 
 <a href="https://github.com/devnoumannaseer-ctrl">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnoumannaseer-ctrl&bg_color=0a0e17&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnoumannaseer-ctrl&bg_color=080808&color=EF4444&line=EF4444&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </a>
 
 </div>
@@ -173,10 +215,10 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════
      SECTION 04 — CONTRIBUTION SNAKE
-     Animated snake eating GitHub contributions in glowing cyber theme
+     Animated snake eating GitHub contributions in glowing Red & Black theme
      ═══════════════════════════════════════════════════════════════════ -->
 
-##  Contribution Activity Grid Snake
+## 🐍 `04.` Contribution Activity Grid Snake
 
 <p align="center">
   <sub>Updated automatically every 12 hours via GitHub Actions workflow</sub>
@@ -203,7 +245,7 @@
      Actual projects directly sourced from personal GitHub and portfolio.
      ═══════════════════════════════════════════════════════════════════ -->
 
-## Featured Projects
+## 🚀 `05.` Featured Projects
 
 ---
 
@@ -236,13 +278,13 @@ Responsive modern restaurant landing web application featuring fluid navigation,
 
 ---
 
-###  Algorithm & Pathfinding Visualizer
+### 🧩 Algorithm & Pathfinding Visualizer
 **Interactive Computer Science Educational Simulator**
 
 Interactive visual simulation engine demonstrating Dijkstra's algorithm, A\* search on custom obstacle grids, and fundamental sorting routines (QuickSort, MergeSort) with real-time speed controls and complexity breakdown.
 
-![Algorithms](https://img.shields.io/badge/Algorithms-Dijkstra_%26_A*-EC4899?style=flat-square)
-![Data Structures](https://img.shields.io/badge/Data_Structures-Graphs_%26_Trees-8B5CF6?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algorithms-Dijkstra_%26_A*-EF4444?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Data_Structures-Graphs_%26_Trees-991B1B?style=flat-square)
 ![React TypeScript](https://img.shields.io/badge/React-TypeScript-61DAFB?style=flat-square)
 
 🔗 [View on GitHub](https://github.com/devnoumannaseer-ctrl) · 🌐 [Architecture View](https://portfolio-nauman-naseer.vercel.app/#projects)
@@ -262,14 +304,14 @@ Robust console and storage management system engineered in modern C++ utilizing 
 
 ---
 
-### Python Data Processing & Automation Suite
+### 🐍 Python Data Processing & Automation Suite
 **Automated File Parsing & Dataset Validation Toolkit**
 
 Modular Python utilities that automate CSV/JSON dataset extraction, execute integrity validation checks, eliminate duplicates, and compile summary metrics — structured according to PEP 8 standards with full type hints.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Scripts-EC4899?style=flat-square)
-![Data Analytics](https://img.shields.io/badge/Data-Parsing_%26_Regex-8B5CF6?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Scripts-EF4444?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data-Parsing_%26_Regex-991B1B?style=flat-square)
 
 🔗 [View on GitHub](https://github.com/devnoumannaseer-ctrl) · 🌐 [Architecture View](https://portfolio-nauman-naseer.vercel.app/#projects)
 
@@ -287,7 +329,7 @@ Modular Python utilities that automate CSV/JSON dataset extraction, execute inte
      SECTION 06 — CURRENTLY LEARNING & ROADMAP
      ═══════════════════════════════════════════════════════════════════ -->
 
-##  Currently Learning & Goals
+## 🌱 `06.` Currently Learning & Goals
 
 ```yaml
 Current Active Studies:
@@ -298,23 +340,18 @@ Current Active Studies:
   - 🤖 Applied Computing: Machine Learning Foundations, Automation Pipelines
 ```
 
-###  Engineering Roadmap
+### 🛣️ Engineering Roadmap
 
 ```text
   CS Theory & Programming Fundamentals
               ↓
-
   Data Structures & Algorithmic Analysis  (C++ / Python)
-
               ↓
   Object-Oriented Software Design & Architecture  (OOP)
-
               ↓
   Modern Frontend & Web Systems  (React · TypeScript · Tailwind)
-
               ↓
   Systems Programming, Databases & Optimization
-
               ↓
         🚀 High-Performance Software Engineer
 ```
@@ -366,7 +403,7 @@ I am always keen to discuss **software engineering, open-source projects, algori
 
 <br><br>
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EC4899,BE185D,701A75,4A044E,1E1B4B,0D1117,07090E&height=120&section=footer&animation=twinkling" width="100%" alt="" />
+<!-- Animated Footer Wave (Red & Black Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EF4444,DC2626,7F1D1D,450A0A,1A0507,0B0B0B,000000&height=120&section=footer&animation=twinkling" width="100%" alt="" />
 
 </div>
