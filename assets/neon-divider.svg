@@ -1,13 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 20" width="960" height="20">
   <defs>
     <linearGradient id="trackGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#262626" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#3A3A3A" stop-opacity="0.9"/>
-      <stop offset="50%" stop-color="#444444"/>
-      <stop offset="80%" stop-color="#3A3A3A" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#262626" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#1E1B4B" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#312E81" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#4C1D95"/>
+      <stop offset="80%" stop-color="#312E81" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#1E1B4B" stop-opacity="0"/>
     </linearGradient>
-    <filter id="glow" x="-50%" y="-150%" width="200%" height="400%">
+
+    <linearGradient id="neonPulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#F43F5E"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="dividerGlow" x="-50%" y="-150%" width="200%" height="400%">
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -16,15 +23,16 @@
     </filter>
   </defs>
 
-  <!-- Static track line -->
-  <line x1="60" y1="10" x2="900" y2="10" stroke="url(#trackGrad)" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Static Track Line -->
+  <line x1="40" y1="10" x2="920" y2="10" stroke="url(#trackGrad)" stroke-width="1.2" stroke-linecap="round"/>
 
-  <!-- Center diamond accent -->
-  <rect x="476" y="6" width="8" height="8" rx="1.5" fill="#141414" stroke="#FF4D12" stroke-width="1.2" transform="rotate(45 480 10)"/>
+  <!-- Center Diamond Accent -->
+  <rect x="475" y="5" width="10" height="10" rx="2" fill="#0B0F19" stroke="#EC4899" stroke-width="1.5" transform="rotate(45 480 10)"/>
+  <circle cx="480" cy="10" r="2" fill="#D946EF"/>
 
-  <!-- Animated traveling orange pulse (SMIL — GitHub-safe) -->
-  <line x1="0" y1="10" x2="180" y2="10" stroke="#FF4D12" stroke-width="2" stroke-linecap="round" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="x1" from="-180" to="960" dur="3.5s" repeatCount="indefinite"/>
-    <animate attributeName="x2" from="0" to="1140" dur="3.5s" repeatCount="indefinite"/>
+  <!-- Animated Traveling Neon Pulse -->
+  <line x1="0" y1="10" x2="200" y2="10" stroke="url(#neonPulse)" stroke-width="2.5" stroke-linecap="round" filter="url(#dividerGlow)" opacity="0.95">
+    <animate attributeName="x1" from="-200" to="960" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="x2" from="0" to="1160" dur="3.2s" repeatCount="indefinite"/>
   </line>
 </svg>
