@@ -1,56 +1,56 @@
 <!-- ================================================================= -->
 <!-- NAUMAN NASEER — PREMIUM ANIMATED GITHUB DEVELOPER PROFILE         -->
-<!-- Red & Black Combo · Inspired by 3D Cyber Developer Desk & Reference -->
+<!-- Light Gray & Obsidian Black Edition · 3D Cyber Developer Desk     -->
 <!-- Portfolio: https://portfolio-nauman-naseer.vercel.app/            -->
-<!-- Palette: Obsidian Black #080808 · Neon Crimson #EF4444 / #DC2626 -->
+<!-- Palette: Obsidian Black #080808 · Silver & Light Gray #D6D6D6    -->
 <!-- ================================================================= -->
 
 <div align="center">
 
-<!-- ⚡ 3D Cyber Developer Desk Banner (Red & Black Edition) -->
+<!-- ⚡ 3D Cyber Developer Desk Banner (Light Gray & Black Edition) -->
 <img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/header-banner.png" width="100%" alt="Nauman Naseer — Developer Banner" />
+
+<br>
+
+<!-- 🌐 Integrated Action Bar Directly from Banner -->
+<a href="https://portfolio-nauman-naseer.vercel.app/" target="_blank" title="Live Portfolio">
+  <img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/btn-portfolio.png" height="34" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nauman-naseer-5469873a7/" target="_blank" title="LinkedIn Profile">
+  <img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/btn-linkedin.png" height="34" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/devnoumannaseer-ctrl" title="GitHub Repositories">
+  <img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/btn-github.png" height="34" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:dev.nouman.naseer@gmail.com" title="Email Nauman">
+  <img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/btn-email.png" height="34" alt="Email Me" />
+</a>
+&nbsp;
+<a href="https://api.whatsapp.com/send?text=Hi%20Nauman%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%21" target="_blank" title="WhatsApp Direct Chat">
+  <img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/btn-whatsapp.png" height="34" alt="WhatsApp" />
+</a>
 
 <br><br>
 
-<!-- ⌨️ Animated Typing SVG — Instant Auto-Render (Neon Crimson) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=1000&color=EF4444&center=true&vCenter=true&width=750&lines=Computer+Science+Undergraduate+%F0%9F%8E%93;Python+%26+C%2B%2B+Programmer+%E2%9A%A1;Data+Structures+%26+OOP+Architect+%F0%9F%A7%A0;Full-Stack+Web+Craftsman+%F0%9F%9A%80;Building+Practical+Software+Systems+%F0%9F%9B%A0%EF%B8%8F" alt="Typing Animation: CS Student | Python & C++ | DSA | Software Systems" />
+<!-- ⌨️ Animated Typing SVG — Instant Auto-Render (Platinum Silver) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=1000&color=D6D6D6&center=true&vCenter=true&width=750&lines=Computer+Science+Undergraduate+%F0%9F%8E%93;Python+%26+C%2B%2B+Programmer+%E2%9A%A1;Data+Structures+%26+OOP+Architect+%F0%9F%A7%A0;Full-Stack+Web+Craftsman+%F0%9F%9A%80;Building+Practical+Software+Systems+%F0%9F%9B%A0%EF%B8%8F" alt="Typing Animation: CS Student | Python & C++ | DSA | Software Systems" />
 
 <br><br>
 
 <!-- 📊 Dynamic Profile Metric Badges -->
 <a href="https://github.com/devnoumannaseer-ctrl?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-4-EF4444?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Followers-4-262626?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
 </a>
 &nbsp;
 <a href="https://github.com/devnoumannaseer-ctrl?tab=repositories">
-  <img src="https://img.shields.io/badge/Stars-Collected-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Stars-Collected-383838?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
 </a>
 &nbsp;
 <a href="https://komarev.com/ghpvc/?username=devnoumannaseer-ctrl">
-  <img src="https://komarev.com/ghpvc/?username=devnoumannaseer-ctrl&label=Profile%20Views&color=EF4444&style=for-the-badge" alt="Profile Views" />
-</a>
-
-<br><br>
-
-<!-- 🌐 Quick Action Connect Badges -->
-<a href="https://portfolio-nauman-naseer.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nauman-naseer-5469873a7/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:dev.nouman.naseer@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://api.whatsapp.com/send?text=Hi%20Nauman%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%21" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/naumannaseer_official/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://komarev.com/ghpvc/?username=devnoumannaseer-ctrl&label=Profile%20Views&color=4A4A4A&style=for-the-badge" alt="Profile Views" />
 </a>
 
 </div>
@@ -182,14 +182,14 @@ Mindset:        "Learn deeply, code with intent, build to last 🚀"
 <div align="center">
 
 <!-- GitHub Contribution Streak Card -->
-<img src="https://streak-stats.demolab.com/?user=devnoumannaseer-ctrl&theme=dark&background=080808&border=331114&stroke=EF4444&ring=EF4444&fire=DC2626&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=EF4444&sideLabels=94a3b8&dates=64748b&border_radius=12" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=devnoumannaseer-ctrl&theme=dark&background=080808&border=262626&stroke=D6D6D6&ring=E2E8F0&fire=E2E8F0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=D6D6D6&sideLabels=94a3b8&dates=64748b&border_radius=12" alt="GitHub Streak Stats" />
 
 <br><br>
 
-<!-- GitHub Stats & Top Languages (Fast & Reliable Instance — No Rate Limit Downtime) -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=devnoumannaseer-ctrl&show_icons=true&bg_color=080808&border_color=331114&title_color=EF4444&text_color=cbd5e1&icon_color=DC2626&border_radius=12" alt="GitHub Stats" />
+<!-- GitHub Stats & Top Languages (Fast & Reliable Instance — Zero Downtime) -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=devnoumannaseer-ctrl&show_icons=true&bg_color=080808&border_color=262626&title_color=FFFFFF&text_color=B8B8B8&icon_color=D6D6D6&border_radius=12" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=devnoumannaseer-ctrl&layout=compact&bg_color=080808&border_color=331114&title_color=EF4444&text_color=cbd5e1&icon_color=DC2626&border_radius=12" alt="Most Used Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=devnoumannaseer-ctrl&layout=compact&bg_color=080808&border_color=262626&title_color=FFFFFF&text_color=B8B8B8&icon_color=D6D6D6&border_radius=12" alt="Most Used Languages" />
 
 </div>
 
@@ -200,7 +200,7 @@ Mindset:        "Learn deeply, code with intent, build to last 🚀"
 <div align="center">
 
 <a href="https://github.com/devnoumannaseer-ctrl">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnoumannaseer-ctrl&bg_color=080808&color=EF4444&line=EF4444&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnoumannaseer-ctrl&bg_color=080808&color=D6D6D6&line=D6D6D6&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </a>
 
 </div>
@@ -215,7 +215,7 @@ Mindset:        "Learn deeply, code with intent, build to last 🚀"
 
 <!-- ═══════════════════════════════════════════════════════════════════
      SECTION 04 — CONTRIBUTION SNAKE
-     Animated snake eating GitHub contributions in glowing Red & Black theme
+     Animated snake eating GitHub contributions in glowing Monochrome theme
      ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 `04.` Contribution Activity Grid Snake
@@ -283,8 +283,8 @@ Responsive modern restaurant landing web application featuring fluid navigation,
 
 Interactive visual simulation engine demonstrating Dijkstra's algorithm, A\* search on custom obstacle grids, and fundamental sorting routines (QuickSort, MergeSort) with real-time speed controls and complexity breakdown.
 
-![Algorithms](https://img.shields.io/badge/Algorithms-Dijkstra_%26_A*-EF4444?style=flat-square)
-![Data Structures](https://img.shields.io/badge/Data_Structures-Graphs_%26_Trees-991B1B?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algorithms-Dijkstra_%26_A*-404040?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Data_Structures-Graphs_%26_Trees-262626?style=flat-square)
 ![React TypeScript](https://img.shields.io/badge/React-TypeScript-61DAFB?style=flat-square)
 
 🔗 [View on GitHub](https://github.com/devnoumannaseer-ctrl) · 🌐 [Architecture View](https://portfolio-nauman-naseer.vercel.app/#projects)
@@ -310,8 +310,8 @@ Robust console and storage management system engineered in modern C++ utilizing 
 Modular Python utilities that automate CSV/JSON dataset extraction, execute integrity validation checks, eliminate duplicates, and compile summary metrics — structured according to PEP 8 standards with full type hints.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Scripts-EF4444?style=flat-square)
-![Data Analytics](https://img.shields.io/badge/Data-Parsing_%26_Regex-991B1B?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Scripts-404040?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data-Parsing_%26_Regex-262626?style=flat-square)
 
 🔗 [View on GitHub](https://github.com/devnoumannaseer-ctrl) · 🌐 [Architecture View](https://portfolio-nauman-naseer.vercel.app/#projects)
 
@@ -366,44 +366,20 @@ Current Active Studies:
 
 <!-- ═══════════════════════════════════════════════════════════════════
      SECTION 07 — LET'S CONNECT
-     Direct contact links matching the reference video footer.
+     Clean contact section with direct links integrated into the top banner
      ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🌐 `07.` Let's Connect
 
-I am always keen to discuss **software engineering, open-source projects, algorithmic problem-solving, and internship opportunities.** Feel free to reach out:
+I am always keen to discuss **software engineering, open-source projects, algorithmic problem-solving, and internship opportunities.** Feel free to connect directly via any channel in the action bar above or visit my [Live Portfolio](https://portfolio-nauman-naseer.vercel.app/).
 
 <div align="center">
-
-<a href="https://portfolio-nauman-naseer.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nauman-naseer-5469873a7/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:dev.nouman.naseer@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-dev.nouman.naseer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br><br>
-
-<a href="https://api.whatsapp.com/send?text=Hi%20Nauman%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%21" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/naumannaseer_official/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%40naumannaseer__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<br><br>
 
 <sub>🌟 See you in the next commit! If you find something inspiring here, consider leaving a star! 🌟</sub>
 
 <br><br>
 
-<!-- Animated Footer Wave (Red & Black Gradient) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EF4444,DC2626,7F1D1D,450A0A,1A0507,0B0B0B,000000&height=120&section=footer&animation=twinkling" width="100%" alt="" />
+<!-- Animated Footer Wave (Silver & Obsidian Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E2E8F0,CBD5E1,94A3B8,475569,1E293B,0F172A,080808&height=120&section=footer&animation=twinkling" width="100%" alt="" />
 
 </div>
