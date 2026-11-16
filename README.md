@@ -7,13 +7,22 @@
 
 <div align="center">
 
-<!-- 🔥 Animated Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=07090E,0D1117,1E1B4B,4A044E,701A75,BE185D,EC4899&height=180&section=header&text=NAUMAN%20NASEER&fontSize=46&fontColor=FFFFFF&animation=twinkling&desc=Computer%20Science%20Student%20%7C%20Python%20%26%20C%2B%2B%20Programmer&descAlignY=75" width="100%" alt="Nauman Naseer — Header Banner" />
+<h2 align="center">
+  <!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2109EB&height=150&section=header&text=Nauman%20naseer&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20Undergrad%20|%20Full-Stack%20Dev%20|%20Tech%20Enthusiast&descAlignY=75" width="100%" />
 
-<!-- ⚡ Cyber Horizon Hero Card (SMIL-animated SVG — GitHub-safe) -->
-<img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/hero-banner.svg" width="100%" alt="Nauman Naseer — Software Craftsman & Builder" />
-
+  <!-- NAME / TAGLINE - animated typing -->
+  <a href="https://github.com/Tayyab-Yahya">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=900&color=2109EB&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Competitive+Programmer;Video+Editor;Content+Creator;CS+Undergraduate;01100011+01101111+01100100+01100101" alt="typing banner">
+  </a>
+  <br><br>  
+</h2>
 <br><br>
+
+<table>
+  <tr>
+
+
 
 <!-- ⌨️ Animated Typing SVG — Instant Auto-Render -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=1000&color=EC4899&center=true&vCenter=true&width=750&lines=Computer+Science+Undergraduate+%F0%9F%8E%93;Python+%26+C%2B%2B+Programmer+%E2%9A%A1;Data+Structures+%26+OOP+Architect+%F0%9F%A7%A0;Full-Stack+Web+Craftsman+%F0%9F%9A%80;Building+Practical+Software+Systems+%F0%9F%9B%A0%EF%B8%8F" alt="Typing Animation: CS Student | Python & C++ | DSA | Software Systems" />
@@ -72,50 +81,8 @@
      Stacks cleanly on mobile viewports.
      ═══════════════════════════════════════════════════════════════════ -->
 
-## ⚡ `01.` About Me
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-
-### Engineering Resilient Foundations in Computer Science
-
-I am an enthusiastic **Computer Science undergraduate** focused on engineering robust software architectures, mastering core computing principles, and solving complex algorithmic challenges.
-
-I combine deep foundational knowledge — such as low-level memory handling in **C++**, high-level scripting in **Python**, and robust **Object-Oriented Design** in **Java** — with modern web technologies to engineer clean, maintainable, and high-performance solutions.
-
-#### 🎯 Core Engineering Passions
-
-- 💻 **Computer Science Undergraduate** — Building strong theoretical foundations in computing, operating systems, and systems design.
-- ⚡ **C++ and Python Programming** — Mastering low-level memory management, pointers, and high-performance automated scripting.
-- 🧠 **Data Structures & Algorithms** — Dedicated to clean code, time & space complexity optimization ($O(1)$, $O(n \log n)$), and edge-case handling.
-- 🏛️ **Object-Oriented Programming (OOP)** — Encapsulation, polymorphism, abstraction, and memory leak prevention.
-- 🌐 **Modern Web Development** — Engineering fluid, component-driven interfaces with **React**, **TypeScript**, and **Tailwind CSS**.
-- 🚀 **Building Practical Software** — Developing usable tools, educational simulators, and scalable full-stack applications.
-
-```yaml
-Current Status: Open for Internships & Engineering Collaborations 💼
-Core Focus:     Algorithms · C++ Systems · Python Automation · React Web
-Mindset:        "Learn deeply, code with intent, build to last 🚀"
-```
-
-  </td>
-  <td width="38%" align="center" valign="middle">
-
-<a href="https://portfolio-nauman-naseer.vercel.app/" target="_blank">
-  <img src="https://i.postimg.cc/G29tQfmY/my-pic.jpg" width="230" style="border-radius: 14px;" alt="Nauman Naseer" />
-</a>
-
-<br><br>
-
-**NAUMAN NASEER**  
-<sub>BS Computer Science · Pakistan 🇵🇰</sub>  
-<sub>Open for Internships & Projects 🟢</sub>
-
-  </td>
-  </tr>
-</table>
-
+ 
 <br>
 
 <p align="center">
@@ -129,7 +96,7 @@ Mindset:        "Learn deeply, code with intent, build to last 🚀"
      Curated icon groups matching the reference video design.
      ═══════════════════════════════════════════════════════════════════ -->
 
-## 💻 `02.` Tech Stack & Engineering Toolkit
+## Tech Stack & Engineering Toolkit
 
 <div align="center">
 
@@ -154,19 +121,7 @@ Mindset:        "Learn deeply, code with intent, build to last 🚀"
 
 </div>
 
-<br>
 
-### 🛠️ Detailed Breakdown by Category
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `C++` · `Python` · `Java` · `C` · `JavaScript (ES6+)` · `TypeScript` · `SQL` |
-| **Web & Frontend** | `React.js` · `Tailwind CSS` · `HTML5` · `CSS3` · `Vite` · `Framer Motion` |
-| **Databases** | `MySQL` · `PostgreSQL` · `Relational Schemas` · `Binary & Text File I/O` |
-| **Core CS & Systems** | `Data Structures` · `Algorithms` · `OOP Paradigm` · `Operating Systems` · `Big-O Complexity` |
-| **Tools & Platforms** | `Git` · `GitHub` · `VS Code` · `Linux / Bash` · `IntelliJ IDEA` · `PyCharm` · `Vercel` |
-
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/neon-divider.svg" width="100%" alt="" />
@@ -221,7 +176,7 @@ Mindset:        "Learn deeply, code with intent, build to last 🚀"
      Animated snake eating GitHub contributions in glowing cyber theme
      ═══════════════════════════════════════════════════════════════════ -->
 
-## 🐍 `04.` Contribution Activity Grid Snake
+##  Contribution Activity Grid Snake
 
 <p align="center">
   <sub>Updated automatically every 12 hours via GitHub Actions workflow</sub>
@@ -248,7 +203,7 @@ Mindset:        "Learn deeply, code with intent, build to last 🚀"
      Actual projects directly sourced from personal GitHub and portfolio.
      ═══════════════════════════════════════════════════════════════════ -->
 
-## 🚀 `05.` Featured Projects
+## Featured Projects
 
 ---
 
@@ -281,7 +236,7 @@ Responsive modern restaurant landing web application featuring fluid navigation,
 
 ---
 
-### 🧩 Algorithm & Pathfinding Visualizer
+###  Algorithm & Pathfinding Visualizer
 **Interactive Computer Science Educational Simulator**
 
 Interactive visual simulation engine demonstrating Dijkstra's algorithm, A\* search on custom obstacle grids, and fundamental sorting routines (QuickSort, MergeSort) with real-time speed controls and complexity breakdown.
@@ -307,7 +262,7 @@ Robust console and storage management system engineered in modern C++ utilizing 
 
 ---
 
-### 🐍 Python Data Processing & Automation Suite
+### Python Data Processing & Automation Suite
 **Automated File Parsing & Dataset Validation Toolkit**
 
 Modular Python utilities that automate CSV/JSON dataset extraction, execute integrity validation checks, eliminate duplicates, and compile summary metrics — structured according to PEP 8 standards with full type hints.
@@ -332,7 +287,7 @@ Modular Python utilities that automate CSV/JSON dataset extraction, execute inte
      SECTION 06 — CURRENTLY LEARNING & ROADMAP
      ═══════════════════════════════════════════════════════════════════ -->
 
-## 🌱 `06.` Currently Learning & Goals
+##  Currently Learning & Goals
 
 ```yaml
 Current Active Studies:
@@ -343,18 +298,23 @@ Current Active Studies:
   - 🤖 Applied Computing: Machine Learning Foundations, Automation Pipelines
 ```
 
-### 🛣️ Engineering Roadmap
+###  Engineering Roadmap
 
 ```text
   CS Theory & Programming Fundamentals
               ↓
+
   Data Structures & Algorithmic Analysis  (C++ / Python)
+
               ↓
   Object-Oriented Software Design & Architecture  (OOP)
+
               ↓
   Modern Frontend & Web Systems  (React · TypeScript · Tailwind)
+
               ↓
   Systems Programming, Databases & Optimization
+
               ↓
         🚀 High-Performance Software Engineer
 ```
