@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://githance.in/api/render?type=header&variant=blueprint&v=rect-v4&name=NAUMAN+NASEER&subtitle=CS+UNDERGRADUATE+%7C+PYTHON+%26+C%2B%2B+PROGRAMMER&theme=midnight&a=C%2B%2B+%26+Python&a=Algorithms+%26+DSA&a=Full-Stack+Web" alt="Nauman Naseer Blueprint Header" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════
+     CUSTOM HEADER — Hands Background + Name Overlay
+     ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/header-hands.svg" width="100%" alt="Nauman Naseer — Header" />
+
 </div>
 
 <h5><i class="rich-diff-level-one">Computer Science undergraduate student passionate about core computing, systems programming, algorithmic problem-solving, and building practical software solutions.</i></h5>
