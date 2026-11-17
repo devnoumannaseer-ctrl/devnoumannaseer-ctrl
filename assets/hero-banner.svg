@@ -1,130 +1,163 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220" width="960" height="220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300">
   <defs>
-    <!-- Background Gradient: Deep Cyber Obsidian to Dark Navy -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#07090E"/>
-      <stop offset="50%" stop-color="#0B0F19"/>
-      <stop offset="100%" stop-color="#07090E"/>
+    <!-- Background Gradient: Deep Obsidian to Secondary Dark -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090909"/>
+      <stop offset="50%" stop-color="#121212"/>
+      <stop offset="100%" stop-color="#0A0A0A"/>
     </linearGradient>
 
-    <!-- Left accent zone gradient: Sleek dark navy card surface -->
-    <linearGradient id="leftPanelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0E1322"/>
-      <stop offset="100%" stop-color="#090C16"/>
+    <!-- Red Accent Gradient -->
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF263D"/>
+      <stop offset="100%" stop-color="#FF5A6E"/>
     </linearGradient>
 
-    <!-- Neon Synthwave Accent: Electric Pink to Violet -->
-    <linearGradient id="neonPinkViolet" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#EC4899"/>
-      <stop offset="50%" stop-color="#D946EF"/>
-      <stop offset="100%" stop-color="#8B5CF6"/>
-    </linearGradient>
-
-    <!-- Sunset Horizon Glow Gradient -->
-    <radialGradient id="sunsetGlow" cx="50%" cy="100%" r="75%">
-      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.25"/>
-      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.10"/>
-      <stop offset="100%" stop-color="#07090E" stop-opacity="0"/>
+    <!-- Subtle Ambient Glow -->
+    <radialGradient id="redGlow" cx="85%" cy="30%" r="55%">
+      <stop offset="0%" stop-color="#FF263D" stop-opacity="0.18"/>
+      <stop offset="50%" stop-color="#B51226" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#090909" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- High-intensity neon glow filter -->
-    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="5" result="blur1"/>
-      <feGaussianBlur stdDeviation="10" result="blur2"/>
-      <feMerge>
-        <feMergeNode in="blur2"/>
-        <feMergeNode in="blur1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- Subtle dot glow -->
-    <filter id="dotGlow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+    <!-- Neon Glow Filter -->
+    <filter id="laserGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
+    <!-- IDE Code Window Background -->
+    <linearGradient id="ideBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161616"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
   </defs>
 
-  <!-- === BACKGROUND === -->
-  <rect width="960" height="220" fill="url(#bgGrad)" rx="10"/>
+  <!-- === CARD BASE === -->
+  <rect width="960" height="300" rx="14" fill="url(#cardBg)"/>
+  <rect width="960" height="300" rx="14" fill="url(#redGlow)"/>
 
-  <!-- Ambient Sunset Horizon Glow -->
-  <rect width="960" height="220" fill="url(#sunsetGlow)" rx="10"/>
-
-  <!-- === SYNTHWAVE PERSPECTIVE / CYBER GRID LINES === -->
-  <g stroke="#8B5CF6" stroke-width="0.75" opacity="0.18">
-    <!-- Horizontal lines with progressive density -->
-    <line x1="0" y1="40" x2="960" y2="40"/>
-    <line x1="0" y1="85" x2="960" y2="85"/>
-    <line x1="0" y1="130" x2="960" y2="130"/>
-    <line x1="0" y1="165" x2="960" y2="165"/>
-    <line x1="0" y1="190" x2="960" y2="190"/>
-    <line x1="0" y1="205" x2="960" y2="205"/>
-    <line x1="0" y1="215" x2="960" y2="215"/>
-
-    <!-- Vertical grid lines -->
-    <line x1="120" y1="0" x2="120" y2="220"/>
-    <line x1="240" y1="0" x2="240" y2="220"/>
-    <line x1="360" y1="0" x2="360" y2="220"/>
-    <line x1="480" y1="0" x2="480" y2="220"/>
-    <line x1="600" y1="0" x2="600" y2="220"/>
-    <line x1="720" y1="0" x2="720" y2="220"/>
-    <line x1="840" y1="0" x2="840" y2="220"/>
+  <!-- Subtle Developer Grid Lines -->
+  <g stroke="#1A1A1A" stroke-width="0.75" opacity="0.6">
+    <line x1="0" y1="50" x2="960" y2="50"/>
+    <line x1="0" y1="100" x2="960" y2="100"/>
+    <line x1="0" y1="150" x2="960" y2="150"/>
+    <line x1="0" y1="200" x2="960" y2="200"/>
+    <line x1="0" y1="250" x2="960" y2="250"/>
+    <line x1="160" y1="0" x2="160" y2="300"/>
+    <line x1="320" y1="0" x2="320" y2="300"/>
+    <line x1="480" y1="0" x2="480" y2="300"/>
+    <line x1="640" y1="0" x2="640" y2="300"/>
+    <line x1="800" y1="0" x2="800" y2="300"/>
   </g>
 
-  <!-- Outer Border with Neon Accent -->
-  <rect x="1" y="1" width="958" height="218" rx="9" fill="none" stroke="#252D42" stroke-width="1.5"/>
+  <!-- Card Border -->
+  <rect x="1" y="1" width="958" height="298" rx="13" fill="none" stroke="#222222" stroke-width="1.5"/>
 
-  <!-- === LEFT GEOMETRIC ZONE (Angled signature panel) === -->
-  <polygon points="0,0 350,0 270,220 0,220" fill="url(#leftPanelGrad)" opacity="0.95"/>
+  <!-- Traveling Red Laser Border Animation (GitHub-Safe SMIL) -->
+  <rect x="1" y="1" width="958" height="298" rx="13" fill="none" stroke="#FF263D" stroke-width="2" stroke-dasharray="80,500" opacity="0.9" filter="url(#laserGlow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1160" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
 
-  <!-- Neon Glowing Diagonal Seam -->
-  <line x1="350" y1="0" x2="270" y2="220" stroke="url(#neonPinkViolet)" stroke-width="2.5" filter="url(#neonGlow)"/>
-
-  <!-- Traveling Highlight Pulse on Diagonal Seam -->
-  <line x1="350" y1="0" x2="270" y2="220" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="60,160">
-    <animate attributeName="stroke-dashoffset" from="0" to="-220" dur="2.8s" repeatCount="indefinite"/>
-  </line>
-
-  <!-- === LEFT ZONE CONTENT === -->
-  <!-- "HI, I AM" with Pulsing Neon Dot -->
-  <circle cx="42" cy="38" r="4.5" fill="#EC4899" filter="url(#dotGlow)">
-    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
-  <text x="56" y="43" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="13" font-weight="800" fill="#F472B6" letter-spacing="1.5">HI, I AM</text>
-
-  <!-- Name Hero: NAUMAN NASEER -->
-  <text x="38" y="98" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="44" font-weight="900" fill="#FFFFFF" letter-spacing="1.5">NAUMAN</text>
-  <text x="38" y="145" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="44" font-weight="900" fill="url(#neonPinkViolet)" letter-spacing="1.5">NASEER</text>
-
-  <!-- Academic Badge Pill -->
-  <rect x="38" y="163" width="205" height="28" rx="6" fill="#141A2D" stroke="#374151" stroke-width="1"/>
-  <text x="48" y="181" font-family="'JetBrains Mono','Courier New',monospace" font-size="10.5" font-weight="700" fill="#E2E8F0" letter-spacing="0.5">CS UNDERGRADUATE • BSCS</text>
-
-  <!-- === RIGHT ZONE CONTENT === -->
-  <!-- Status Pill (Top-Right) -->
+  <!-- === LEFT AREA: HERO BRAND & PROFILE === -->
+  <!-- Status Indicator Badge -->
   <g>
-    <rect x="365" y="24" width="270" height="26" rx="13" fill="#111827" stroke="#374151" stroke-width="1"/>
-    <circle cx="380" cy="37" r="4" fill="#10B981">
-      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    <rect x="42" y="32" width="280" height="26" rx="13" fill="#141414" stroke="#2A2A2A" stroke-width="1"/>
+    <circle cx="58" cy="45" r="4.5" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="380" cy="37" r="2" fill="#6EE7B7"/>
-    <text x="393" y="41" font-family="'JetBrains Mono',monospace" font-size="9.5" font-weight="700" fill="#D1D5DB" letter-spacing="0.4">OPEN TO INTERNSHIPS &amp; PROJECTS</text>
+    <circle cx="58" cy="45" r="2" fill="#6EE7B7"/>
+    <text x="72" y="49" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="10" font-weight="700" fill="#E5E7EB" letter-spacing="0.5">OPEN TO INTERNSHIPS &amp; PROJECTS</text>
   </g>
 
-  <!-- Headline: SOFTWARE CRAFTSMAN & BUILDER -->
-  <text x="365" y="92" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="22" font-weight="900" fill="#F8FAFC" letter-spacing="1">SOFTWARE CRAFTSMAN</text>
-  <text x="635" y="92" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="22" font-weight="900" fill="#EC4899" letter-spacing="1"> &amp; BUILDER</text>
+  <!-- Hero Name: NAUMAN NASEER -->
+  <text x="42" y="105" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="46" font-weight="900" fill="#FFFFFF" letter-spacing="1">NAUMAN</text>
+  <text x="260" y="105" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="46" font-weight="900" fill="url(#redGrad)" letter-spacing="1">NASEER</text>
 
-  <!-- Subtitle Tagline -->
-  <text x="365" y="120" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="600" fill="#94A3B8" letter-spacing="0.3">Python &amp; C++ · Data Structures &amp; OOP · Modern Web Apps</text>
+  <!-- Primary Subtitle / Title -->
+  <text x="44" y="138" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#E5E7EB" letter-spacing="0.4">&lt;/&gt; Computer Science Student · Systems &amp; Software Developer</text>
 
-  <!-- Quote Box with Neon Violet Edge -->
-  <rect x="365" y="146" width="555" height="45" rx="6" fill="#0C101C" stroke="#232B42" stroke-width="1"/>
-  <rect x="365" y="146" width="3" height="45" rx="1.5" fill="url(#neonPinkViolet)"/>
-  <text x="382" y="166" font-family="'JetBrains Mono',monospace" font-size="11" font-style="italic" fill="#E2E8F0">"Learn deeply, code with intent, build to last."</text>
-  <text x="382" y="181" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="9.5" font-weight="600" fill="#64748B">— Algorithmic Optimization · Clean Architecture · Scalable Systems</text>
+  <!-- Secondary Description -->
+  <text x="44" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="13" font-weight="500" fill="#A3A3A3" letter-spacing="0.2">C++ &amp; Python Programming · Data Structures &amp; OOP · Modern Full-Stack Web</text>
+
+  <!-- Mini Console Quote Card -->
+  <rect x="42" y="194" width="460" height="66" rx="8" fill="#111111" stroke="#222222" stroke-width="1"/>
+  <rect x="42" y="194" width="4" height="66" rx="2" fill="url(#redGrad)"/>
+  <text x="58" y="218" font-family="'JetBrains Mono',monospace" font-size="11.5" font-style="italic" fill="#F3F4F6">"Learn deeply, code with intent, build to last."</text>
+  <text x="58" y="242" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" font-weight="600" fill="#737373">Engineering algorithmic logic, robust data architectures, and scalable web solutions.</text>
+
+  <!-- === RIGHT AREA: DEVELOPER CODE WORKSTATION WINDOW === -->
+  <g transform="translate(535, 32)">
+    <!-- Window Body -->
+    <rect width="380" height="232" rx="10" fill="url(#ideBg)" stroke="#262626" stroke-width="1.2"/>
+    <rect width="380" height="232" rx="10" fill="none" stroke="#FF263D" stroke-width="1" opacity="0.3"/>
+
+    <!-- Window Titlebar -->
+    <rect width="380" height="32" rx="10" fill="#1A1A1A"/>
+    <rect y="22" width="380" height="10" fill="#1A1A1A"/>
+    <line x1="0" y1="32" x2="380" y2="32" stroke="#262626" stroke-width="1"/>
+
+    <!-- Mac Traffic Light Dots -->
+    <circle cx="16" cy="16" r="5" fill="#FF5F56"/>
+    <circle cx="32" cy="16" r="5" fill="#FFBD2E"/>
+    <circle cx="48" cy="16" r="5" fill="#27C93F"/>
+
+    <!-- Active Tab -->
+    <rect x="70" y="6" width="130" height="26" rx="4" fill="#0D0D0D"/>
+    <text x="86" y="23" font-family="'JetBrains Mono',monospace" font-size="10.5" font-weight="600" fill="#E5E7EB">nauman.cpp</text>
+    <circle cx="186" cy="19" r="2.5" fill="#FF263D"/>
+
+    <!-- Code Editor Content -->
+    <g font-family="'JetBrains Mono',monospace" font-size="11.5" font-weight="500">
+      <text x="20" y="58" fill="#666666">01</text>
+      <text x="50" y="58" fill="#FF263D">#include</text>
+      <text x="114" y="58" fill="#A3A3A3">&lt;engineer&gt;</text>
+
+      <text x="20" y="80" fill="#666666">02</text>
+
+      <text x="20" y="102" fill="#666666">03</text>
+      <text x="50" y="102" fill="#FF263D">class</text>
+      <text x="92" y="102" fill="#FFFFFF" font-weight="700">Developer</text>
+      <text x="168" y="102" fill="#E5E7EB">{</text>
+
+      <text x="20" y="124" fill="#666666">04</text>
+      <text x="70" y="124" fill="#A3A3A3">string</text>
+      <text x="120" y="124" fill="#FFFFFF">name</text>
+      <text x="156" y="124" fill="#FF263D">=</text>
+      <text x="174" y="124" fill="#10B981">"Nauman Naseer"</text>
+      <text x="290" y="124" fill="#A3A3A3">;</text>
+
+      <text x="20" y="146" fill="#666666">05</text>
+      <text x="70" y="146" fill="#A3A3A3">string</text>
+      <text x="120" y="146" fill="#FFFFFF">role</text>
+      <text x="156" y="146" fill="#FF263D">=</text>
+      <text x="174" y="146" fill="#10B981">"CS Undergrad"</text>
+      <text x="282" y="146" fill="#A3A3A3">;</text>
+
+      <text x="20" y="168" fill="#666666">06</text>
+      <text x="70" y="168" fill="#A3A3A3">auto</text>
+      <text x="105" y="168" fill="#FFFFFF">stack</text>
+      <text x="148" y="168" fill="#FF263D">=</text>
+      <text x="166" y="168" fill="#10B981">{"C++", "Python", "React"}</text>
+      <text x="360" y="168" fill="#A3A3A3">;</text>
+
+      <text x="20" y="190" fill="#666666">07</text>
+      <text x="70" y="190" fill="#A3A3A3">bool</text>
+      <text x="105" y="190" fill="#FFFFFF">openToWork</text>
+      <text x="190" y="190" fill="#FF263D">=</text>
+      <text x="208" y="190" fill="#60A5FA">true</text>
+      <text x="240" y="190" fill="#A3A3A3">;</text>
+
+      <text x="20" y="212" fill="#666666">08</text>
+      <text x="50" y="212" fill="#E5E7EB">};</text>
+
+      <!-- Blinking Cursor -->
+      <line x1="72" y1="202" x2="72" y2="216" stroke="#FF263D" stroke-width="2">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </line>
+    </g>
+  </g>
 </svg>
