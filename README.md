@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════
-     CUSTOM HEADER — Hands Background + Name Overlay
+     CUSTOM HEADER — Hands Background + Name Overlay SVG
      ═══════════════════════════════════════════════════════════ -->
 
 <img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/header-hands.svg" width="100%" alt="Nauman Naseer — Header" />
@@ -16,33 +16,8 @@
 
 ## Tech Stack
 
-<div align="left">
-<table cellpadding="8" cellspacing="0">
-  <tr>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=c" alt="C" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" /></td>
-  </tr>
-  <tr>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" /></td>
-  </tr>
-  <tr>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" /></td>
-  </tr>
-  <tr>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="44" height="44" /></td>
-<td align="center" valign="middle" width="84" height="84"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="44" height="44" /></td>
-  </tr>
-</table>
+<div align="center">
+<img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/tech-stack-cards.svg" alt="Tech Stack" width="740" />
 </div>
 
 </td>
