@@ -1,87 +1,83 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════
-     CUSTOM HEADER — Hands Background + Name Overlay SVG
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════
+     HERO BANNER — Michelangelo Hands Background with Name Overlay
+     ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/header-hands.svg" width="100%" alt="Nauman Naseer — Header" />
+<img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/header-hands.svg" width="100%" alt="Nauman Naseer — Developer Portfolio" />
 
-</div>
+<br><br>
 
 <h5><i class="rich-diff-level-one">Computer Science undergraduate student passionate about core computing, systems programming, algorithmic problem-solving, and building practical software solutions.</i></h5>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: separate; width: 100%;">
-  <tr style="border: 0;">
-<td align="left" valign="top" style="border: 0; padding: 0 16px;">
+<br>
 
-## Tech Stack
+<!-- Integrated Quick Action Bar (Clickable Links) -->
+<p align="center">
+  <a href="https://portfolio-nauman-naseer.vercel.app/" target="_blank" title="Live Developer Portfolio">
+    <img src="https://img.shields.io/badge/Live_Portfolio-0a0e17?style=for-the-badge&logo=vercel&logoColor=53D0FF" alt="Live Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nauman-naseer-5469873a7/" target="_blank" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/devnoumannaseer-ctrl" target="_blank" title="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-0a0e17?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:dev.nouman.naseer@gmail.com" title="Direct Email">
+    <img src="https://img.shields.io/badge/Email_Me-0a0e17?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://api.whatsapp.com/send?text=Hi%20Nauman%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%21" target="_blank" title="WhatsApp Direct Chat">
+    <img src="https://img.shields.io/badge/WhatsApp-0a0e17?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
+  </a>
+</p>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/tech-stack-cards.svg" alt="Tech Stack" width="740" />
 </div>
-
-</td>
-<td align="center" valign="top" style="border: 0; padding: 0 16px;">
-
-## Connect With Me
-
-<div align="center">
-<table cellpadding="8" cellspacing="0">
-  <tr>
-<td align="center" valign="middle" width="56" height="56"><a href="https://portfolio-nauman-naseer.vercel.app/" target="_blank" title="Personal Portfolio"><img src="https://api.iconify.design/simple-icons/vercel.svg?color=%2353D0FF" alt="Portfolio" width="34" height="34" /></a></td>
-  </tr>
-  <tr>
-<td align="center" valign="middle" width="56" height="56"><a href="https://www.linkedin.com/in/nauman-naseer-5469873a7/" target="_blank" title="LinkedIn Profile"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" /></a></td>
-  </tr>
-  <tr>
-<td align="center" valign="middle" width="56" height="56"><a href="https://github.com/devnoumannaseer-ctrl" target="_blank" title="GitHub"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23FFFFFF" alt="GitHub" width="34" height="34" /></a></td>
-  </tr>
-  <tr>
-<td align="center" valign="middle" width="56" height="56"><a href="mailto:dev.nouman.naseer@gmail.com" title="Email"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" alt="Email" width="34" height="34" /></a></td>
-  </tr>
-  <tr>
-<td align="center" valign="middle" width="56" height="56"><a href="https://api.whatsapp.com/send?text=Hi%20Nauman%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%21" target="_blank" title="WhatsApp"><img src="https://api.iconify.design/simple-icons/whatsapp.svg?color=%2325D366" alt="WhatsApp" width="34" height="34" /></a></td>
-  </tr>
-</table>
-</div>
-
-</td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://githance.in/api/render?type=decor&variant=pulse-line&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=2&align=center&span=100" alt="Pulse Line" />
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════════
+     TECH STACK — SPIDER HUB GRAPH (Tools I Used)
+     ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/main/assets/tech-stack-cards.svg" width="760" alt="Tech Stack — Tools I Used" />
+</div>
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=decor&variant=pulse-line&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=2&align=center&span=100" alt="Pulse Line" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     CONTRIBUTION ANALYTICS & ACTIVITY
+     ═══════════════════════════════════════════════════════════════════ -->
+
 ## 📊 Contribution Analytics
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: separate; width: 100%;">
   <tr style="border: 0;">
-<td align="center" valign="top" style="border: 0; padding: 0 8px;">
-<p align="center">
-  <img src="https://githance.in/api/render?type=contribution&variant=summary&v=rect-v4&user=devnoumannaseer-ctrl" alt="Contribution summary" width="360" />
-</p>
-</td>
-<td align="center" valign="top" style="border: 0; padding: 0 8px;">
-<p align="center">
-  <img src="https://githance.in/api/render?type=streak&variant=default&v=rect-v4&user=devnoumannaseer-ctrl" alt="Commit streak" width="360" />
-</p>
-</td>
+    <td align="center" valign="top" style="border: 0; padding: 0 8px;">
+      <img src="https://githance.in/api/render?type=contribution&variant=summary&v=rect-v4&user=devnoumannaseer-ctrl" alt="Contribution summary" width="360" />
+    </td>
+    <td align="center" valign="top" style="border: 0; padding: 0 8px;">
+      <img src="https://githance.in/api/render?type=streak&variant=default&v=rect-v4&user=devnoumannaseer-ctrl" alt="Commit streak" width="360" />
+    </td>
   </tr>
 </table>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: separate; width: 100%;">
   <tr style="border: 0;">
-<td align="center" valign="top" style="border: 0; padding: 0 8px;">
-<p align="center">
-  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=sunset&v=rect-v4&user=devnoumannaseer-ctrl&range=yearly" alt="Yearly Contribution Graph" />
-</p>
-</td>
-<td align="center" valign="top" style="border: 0; padding: 0 8px;">
-<p align="center">
-  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=sunset&v=rect-v4&user=devnoumannaseer-ctrl&range=monthly" alt="Monthly Contribution Graph" />
-</p>
-</td>
+    <td align="center" valign="top" style="border: 0; padding: 0 8px;">
+      <img src="https://githance.in/api/render?type=contribution-heatmap&variant=sunset&v=rect-v4&user=devnoumannaseer-ctrl&range=yearly" alt="Yearly Contribution Graph" />
+    </td>
+    <td align="center" valign="top" style="border: 0; padding: 0 8px;">
+      <img src="https://githance.in/api/render?type=contribution-heatmap&variant=sunset&v=rect-v4&user=devnoumannaseer-ctrl&range=monthly" alt="Monthly Contribution Graph" />
+    </td>
   </tr>
 </table>
 
@@ -94,6 +90,10 @@
 <p align="center">
   <img src="https://githance.in/api/render?type=decor&variant=pulse-line&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=2&align=center&span=100" alt="Pulse Line" />
 </p>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     FEATURED PROJECTS
+     ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -151,6 +151,10 @@
 <p align="center">
   <img src="https://githance.in/api/render?type=decor&variant=pulse-line&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=2&align=center&span=100" alt="Pulse Line" />
 </p>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     FOOTER
+     ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="https://githance.in/api/render?type=footer&banner_id=banner-2&w=1600&h=240" alt="Footer banner" width="100%" />
