@@ -54,29 +54,29 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     GITHUB STATS DASHBOARD
+     GITHUB STATS DASHBOARD (Cyan & Obsidian Dark Palette)
      ═══════════════════════════════════════════════════════════════════ -->
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devnoumannaseer-ctrl&theme=merko&title_color=50C878&text_color=FFFFFF&bg_color=071B12&border_color=071B12&icon_color=50C878&chart_color=50C878" width="75%" alt="GitHub profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devnoumannaseer-ctrl&theme=solarized_dark&title_color=53D0FF&text_color=FFFFFF&bg_color=050811&border_color=53D0FF&icon_color=53D0FF&chart_color=53D0FF" width="75%" alt="GitHub profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devnoumannaseer-ctrl&theme=merko&title_color=50C878&text_color=FFFFFF&bg_color=071B12&border_color=071B12&icon_color=FFFFFF&chart_color=50C878" height="180" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devnoumannaseer-ctrl&theme=solarized_dark&title_color=53D0FF&text_color=FFFFFF&bg_color=050811&border_color=53D0FF&icon_color=FFFFFF&chart_color=53D0FF" height="180" alt="GitHub stats" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devnoumannaseer-ctrl&theme=merko&title_color=50C878&text_color=FFFFFF&bg_color=071B12&border_color=071B12&icon_color=50C878&chart_color=50C878" height="180" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devnoumannaseer-ctrl&theme=solarized_dark&title_color=53D0FF&text_color=FFFFFF&bg_color=050811&border_color=53D0FF&icon_color=53D0FF&chart_color=53D0FF" height="180" alt="Most used languages" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     CONTRIBUTION STREAK
+     CONTRIBUTION STREAK (Cyan & Warm Fire Palette)
      ═══════════════════════════════════════════════════════════════════ -->
 
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=devnoumannaseer-ctrl&background=000000&ring=00A82D&fire=00A82D&currStreakLabel=FFFFFF&sideLabels=00A82D&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E&stroke=00A82D&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=devnoumannaseer-ctrl&background=050811&border=53D0FF&stroke=53D0FF&ring=53D0FF&fire=FF7A1A&currStreakNum=53D0FF&sideLabels=53D0FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&dates=94A3B8&hide_border=false" alt="GitHub contribution streak" />
 </p>
 
 <br>
