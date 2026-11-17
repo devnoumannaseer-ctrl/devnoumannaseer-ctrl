@@ -54,99 +54,36 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     CONTRIBUTION ANALYTICS & ACTIVITY
+     GITHUB STATS DASHBOARD
      ═══════════════════════════════════════════════════════════════════ -->
 
-## 📊 Contribution Analytics
+# 📊 GitHub Stats
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: separate; width: 100%;">
-  <tr style="border: 0;">
-    <td align="center" valign="top" style="border: 0; padding: 0 8px;">
-      <img src="https://githance.in/api/render?type=contribution&variant=summary&v=rect-v4&user=devnoumannaseer-ctrl" alt="Contribution summary" width="360" />
-    </td>
-    <td align="center" valign="top" style="border: 0; padding: 0 8px;">
-      <img src="https://githance.in/api/render?type=streak&variant=default&v=rect-v4&user=devnoumannaseer-ctrl" alt="Commit streak" width="360" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devnoumannaseer-ctrl&theme=merko&title_color=50C878&text_color=FFFFFF&bg_color=071B12&border_color=071B12&icon_color=50C878&chart_color=50C878" width="75%" alt="GitHub profile details" />
+</p>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: separate; width: 100%;">
-  <tr style="border: 0;">
-    <td align="center" valign="top" style="border: 0; padding: 0 8px;">
-      <img src="https://githance.in/api/render?type=contribution-heatmap&variant=sunset&v=rect-v4&user=devnoumannaseer-ctrl&range=yearly" alt="Yearly Contribution Graph" />
-    </td>
-    <td align="center" valign="top" style="border: 0; padding: 0 8px;">
-      <img src="https://githance.in/api/render?type=contribution-heatmap&variant=sunset&v=rect-v4&user=devnoumannaseer-ctrl&range=monthly" alt="Monthly Contribution Graph" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devnoumannaseer-ctrl&theme=merko&title_color=50C878&text_color=FFFFFF&bg_color=071B12&border_color=071B12&icon_color=FFFFFF&chart_color=50C878" height="180" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devnoumannaseer-ctrl&theme=merko&title_color=50C878&text_color=FFFFFF&bg_color=071B12&border_color=071B12&icon_color=50C878&chart_color=50C878" height="180" alt="Most used languages" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     CONTRIBUTION STREAK
+     ═══════════════════════════════════════════════════════════════════ -->
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=devnoumannaseer-ctrl&background=000000&ring=00A82D&fire=00A82D&currStreakLabel=FFFFFF&sideLabels=00A82D&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E&stroke=00A82D&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 <br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devnoumannaseer-ctrl/devnoumannaseer-ctrl/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=decor&variant=pulse-line&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=2&align=center&span=100" alt="Pulse Line" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     FEATURED PROJECTS
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: separate; width: 100%;">
-  <tr style="border: 0;">
-    <td width="50%" valign="top" style="border: 0; padding: 12px;">
-      <h3>⚡ Personal Developer Portfolio</h3>
-      <p>Modern responsive portfolio website built with clean architecture, interactive UI animations, and dark mode.</p>
-      <p><b>Tech:</b> <code>React</code> · <code>Tailwind CSS</code> · <code>JavaScript</code> · <code>Vercel</code></p>
-      <p>
-        <a href="https://github.com/devnoumannaseer-ctrl/Portfolio-Nauman-Naseer"><b>View Repository →</b></a> &nbsp;|&nbsp;
-        <a href="https://portfolio-nauman-naseer.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top" style="border: 0; padding: 12px;">
-      <h3>🍽️ Fonro Restaurant Web Platform</h3>
-      <p>Full-featured modern restaurant web application with interactive dynamic menu navigation, table reservations, and cart workflow.</p>
-      <p><b>Tech:</b> <code>React</code> · <code>JavaScript</code> · <code>CSS3</code> · <code>Vercel</code></p>
-      <p>
-        <a href="https://github.com/devnoumannaseer-ctrl/Fonro-resturant"><b>View Repository →</b></a> &nbsp;|&nbsp;
-        <a href="https://fonro-resturant.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr style="border: 0;">
-    <td width="50%" valign="top" style="border: 0; padding: 12px;">
-      <h3>🧠 Algorithm & Data Structures Visualizer</h3>
-      <p>Interactive algorithm visualizer demonstrating sorting, pathfinding, and tree traversal algorithms with step-by-step state animations.</p>
-      <p><b>Tech:</b> <code>C++</code> · <code>Python</code> · <code>DSA</code> · <code>Algorithms</code></p>
-      <p>
-        <a href="https://github.com/devnoumannaseer-ctrl/Algorithm-Visualizer"><b>View Repository →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top" style="border: 0; padding: 12px;">
-      <h3>🎓 Student Record Management System</h3>
-      <p>Robust C++ application featuring file persistence, memory management, and structured search/sorting algorithms for institutional academic records.</p>
-      <p><b>Tech:</b> <code>C++</code> · <code>OOP</code> · <code>File I/O</code> · <code>Data Structures</code></p>
-      <p>
-        <a href="https://github.com/devnoumannaseer-ctrl/Student-Record-System"><b>View Repository →</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr style="border: 0;">
-    <td width="100%" colspan="2" valign="top" style="border: 0; padding: 12px;">
-      <h3>🐍 Python Automation & Productivity Suite</h3>
-      <p>Multi-tool Python utility suite providing automated file organization, batch processing, scraping, and workflow enhancements.</p>
-      <p><b>Tech:</b> <code>Python</code> · <code>Automation</code> · <code>OS Scripting</code> · <code>RegEx</code></p>
-      <p>
-        <a href="https://github.com/devnoumannaseer-ctrl/Python-Automation-Suite"><b>View Repository →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://githance.in/api/render?type=decor&variant=pulse-line&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=2&align=center&span=100" alt="Pulse Line" />
